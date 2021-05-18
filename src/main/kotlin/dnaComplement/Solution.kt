@@ -8,3 +8,8 @@ fun makeComplement(dna: String): String {
         complement.getOrDefault(it.toString(), "")
     }.joinToString("")
 }
+
+
+fun main() {
+    println(makeComplement("ACGCTTAGCG"))
+}
