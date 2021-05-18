@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demoninators.FractsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-11T14:28:00" hostname="MattMini" time="55.891">
+  <properties/>
+  <testcase name="basicTests" classname="demoninators.FractsTest" time="55.891"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
